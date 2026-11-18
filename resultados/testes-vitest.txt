@@ -1,0 +1,97 @@
+
+ RUN  v2.1.9 sql-industrial-trainer
+
+ ✓ tests/exercises.test.ts > conteúdo > todo módulo tem exercícios e ids únicos
+ ✓ tests/exercises.test.ts > conteúdo > solução de 1.1 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 1.2 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 1.3 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 1.4 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 2.1 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 2.2 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 2.3 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 2.4 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 2.5 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 3.1 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 3.2 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 3.3 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 3.4 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 3.5 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 4.1 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 4.2 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 4.3 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 4.4 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 4.5 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 5.1 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 5.2 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 5.3 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 5.4 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 5.5 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 6.1 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 6.2 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 6.3 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 6.4 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 6.5 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 7.1 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 7.2 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 7.3 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 7.4 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 8.1 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 8.2 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 8.3 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 8.4 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 8.5 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 9.1 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 9.2 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 9.3 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 9.4 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 9.5 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 10.1 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 10.2 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 10.3 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > conteúdo > solução de 10.4 executa, retorna linhas e se auto-valida
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 1.1
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 1.2
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 1.4
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 2.4
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 2 do exercício 2.4
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 2.5
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 3.1
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 4.5
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 2 do exercício 4.5
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 5.1
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 6.3
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 2 do exercício 6.3
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 7.2
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 2 do exercício 7.2
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 7.3
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 8.2
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 8.3
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 2 do exercício 8.3
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 8.4
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 9.4
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 9.5
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 10.1
+ ✓ tests/exercises.test.ts > validação semântica > aceita alternativa 1 do exercício 10.4
+ ✓ tests/exercises.test.ts > validação semântica > rejeita erro típico em 1.2 (column_count)
+ ✓ tests/exercises.test.ts > validação semântica > rejeita erro típico em 2.3 (row_count)
+ ✓ tests/exercises.test.ts > validação semântica > rejeita erro típico em 2.5 (row_count)
+ ✓ tests/exercises.test.ts > validação semântica > rejeita erro típico em 3.2 (values)
+ ✓ tests/exercises.test.ts > validação semântica > rejeita erro típico em 3.3 (order)
+ ✓ tests/exercises.test.ts > validação semântica > rejeita erro típico em 4.5 (rounding)
+ ✓ tests/exercises.test.ts > validação semântica > rejeita erro típico em 6.3 (row_count)
+ ✓ tests/exercises.test.ts > validação semântica > rejeita erro típico em 7.3 (values)
+ ✓ tests/exercises.test.ts > validação semântica > rejeita erro típico em 7.4 (row_count)
+ ✓ tests/exercises.test.ts > validação semântica > rejeita erro típico em 8.3 (row_count)
+ ✓ tests/exercises.test.ts > validação semântica > rejeita erro típico em 8.5 (values)
+ ✓ tests/exercises.test.ts > validação semântica > rejeita erro típico em 10.4 (values)
+ ✓ tests/exercises.test.ts > sandbox > bloqueia escrita
+ ✓ tests/exercises.test.ts > sandbox > cada execução parte do banco original
+ ✓ tests/exercises.test.ts > sandbox > retorna colunas mesmo sem linhas
+ ✓ tests/exercises.test.ts > sandbox > dados determinísticos
+ ✓ tests/exercises.test.ts > sem empates na fronteira dos Top-N > 3.2: 5º e 6º custos diferentes
+
+ Test Files  1 passed (1)
+      Tests  88 passed (88)
+   Start at  17:52:01
+   Duration  1.55s (transform 152ms, setup 0ms, collect 172ms, tests 691ms, environment 0ms, prepare 369ms)
+
